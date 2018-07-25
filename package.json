@@ -1,0 +1,19 @@
+{
+  "name": "glDatePicker",
+  "version": "2.0.4",
+  "description": "make gldatepicker v2.0 can install from npm, see http://glad.github.com/glDatePicker/",
+  "main": "glDatePicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clwu88/glDatePicker.git"
+  },
+  "author": "clwu",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/clwu88/glDatePicker/issues"
+  },
+  "homepage": "https://github.com/clwu88/glDatePicker#readme"
+}
